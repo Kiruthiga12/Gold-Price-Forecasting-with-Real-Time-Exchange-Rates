@@ -1,1 +1,1 @@
-# Gold-Price-Prediction
+# Gold-Price-Prediction    - Simple Linear Regression
