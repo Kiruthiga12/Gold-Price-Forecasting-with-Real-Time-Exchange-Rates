@@ -2,7 +2,9 @@
 
 Predict gold prices based on the USD to INR exchange rate using a regression model trained on real-world data.
 
-![Gradio App Screenshot](https://https://github.com/Kiruthiga12/Gold-Price-Forecasting-with-Real-Time-Exchange-Rates/blob/main/Gradio%20App.png/gradio-screenshot.png)
+## Gradio App Screenshot
+
+https://github.com/Kiruthiga12/Gold-Price-Forecasting-with-Real-Time-Exchange-Rates/blob/main/Gradio%20App.png
 
 ## 🚀 Project Summary
 
